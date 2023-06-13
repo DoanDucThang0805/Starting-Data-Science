@@ -1,2 +1,0 @@
-# Starting-Data-Science
-ssss
